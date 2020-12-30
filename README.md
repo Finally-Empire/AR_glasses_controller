@@ -18,9 +18,7 @@ Recognizing Hand-Gestures using OpenCV and Python to controll the phone on AR_gl
 * mouse_emulate.py
 
 **Referense**
-* [Gogul09
-/
-gesture-recognition]https://github.com/Gogul09/gesture-recognition)
+* [Gogul09ㄥgesture-recognition]https://github.com/Gogul09/gesture-recognition)
 
 * [Hand Gesture Recognition using Python and OpenCV - Part 1](https://gogul09.github.io/software/hand-gesture-recognition-p1)
 * [Hand Gesture Recognition using Python and OpenCV - Part 2](https://gogul09.github.io/software/hand-gesture-recognition-p2)

@@ -20,5 +20,5 @@ Recognizing Hand-Gestures using OpenCV and Python to controll the phone on AR_gl
 **Referense**
 
 
-[1]: https://gogul.dev/software/hand-gesture-recognition-p1/ "Hand Gesture Recognition using Python and OpenCV - Part 1"
-[2]:https://gogul.dev/software/hand-gesture-recognition-p2/ "Hand Gesture Recognition using Python and OpenCV - Part 2"
+[1]: https://gogul.dev/software/hand-gesture-recognition-p1/ (Hand Gesture Recognition using Python and OpenCV - Part 1)
+[2]: https://gogul.dev/software/hand-gesture-recognition-p2/ (Hand Gesture Recognition using Python and OpenCV - Part 2)

@@ -1,4 +1,24 @@
-# AR_glasses_controller
+# AR_glasses_controller Gesture Recognition
+
+Recognizing Hand-Gestures using OpenCV and Python to controll the phone on AR_glass.
+
+**Libraries needed**
+* cv2
+* imutils
+* numpy
+* sklearn
+
+**Usage**
+* python segment.py
+* python recognize.py
+* python recognize-image.py
+
+**BlueTooth-mouse simulating**
+* mouse_client.py
+* mouse_emulate.py
+
+**Referense**
 
 
-Use the camera to connect to the Raspberry Pi, process the obtained picture, and then transmit it to the mobile phone via Bluetooth to simulate the keyboard and mouse to implement AR interaction
+[1]: https://gogul.dev/software/hand-gesture-recognition-p1 "Hand Gesture Recognition using Python and OpenCV - Part 1"
+[2]:https://gogul.dev/software/hand-gesture-recognition-p2 "Hand Gesture Recognition using Python and OpenCV - Part 2"
